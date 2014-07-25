@@ -1,5 +1,7 @@
 # Emmental
 
+[![Build Status](https://travis-ci.org/s-osa/emmental.svg?branch=master)](https://travis-ci.org/s-osa/emmental)
+
 Sparse table gem.
 
 ## Installation

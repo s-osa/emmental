@@ -29,7 +29,7 @@ emmental << {foo: 1, bar: 2}
 emmental << {fizz: 3, "buzz" => 5}
 emmental << {foo: 1}
 
-emmental.to_s # =>
+emmental.to_a # =>
 # [
 #   [:foo, :bar, :fizz, "buzz"],
 #   [1, 2, nil, nil],
